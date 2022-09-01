@@ -1,5 +1,5 @@
 # Signs
-A Collection of printable signs in Aurebesh.
+A Collection of printable signs in Aurebesh, based on a sign in front of a droid cage in Galaxy's Edge.
 
 • These aren't the droids you're looking for.
 
